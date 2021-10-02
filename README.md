@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kunal Rohitas</h1>
+<h1 align="center">Hi 👋, I'm Kunal</h1>
 <h3 align="center">A passionate backend developer who loves to learn different technologies and solve problems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal4now&label=Profile%20views&color=0e75b6&style=flat" alt="kunal4now" /> </p>
