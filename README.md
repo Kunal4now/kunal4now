@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kunal4now/SpacePark](https://github.com/Kunal4now/SpacePark)
 
-- 💬 Ask me about **C++, Data Structures, Algorithms**
+- 💬 Ask me about **C++, Data Structures, Algorithms, NodeJS, ExpressJS, Flutter**
 
 - 📫 How to reach me **kunal.rohitas29@gmail.com**
 
