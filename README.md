@@ -61,6 +61,7 @@
 
 # Blog posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [Deploy your Node.js App on Heroku using GitHub](https://blog.devgenius.io/deploy-your-node-js-app-on-heroku-using-github-f7487d002e15?source=rss-fb14fb1c9c04------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://github.com/kunal4now">
