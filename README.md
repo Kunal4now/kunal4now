@@ -11,11 +11,10 @@
   <tr>
     <a href="https://www.linkedin.com/in/kunal-rohitas-a96205a9/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-    <a href="https://www.linkedin.com/in/kunal-rohitas-a96205a9/">
+    <a href="https://medium.com/@kunal.rohitas29">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-    
-  </a>&nbsp;&nbsp;
-   <td><ahref="mailto:kunal.rohitas29@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></td>
+</a>
+<a href="mailto:kunal.rohitas29@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></td>
 </table>
 
 
@@ -70,11 +69,11 @@
 
 <br>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kunal4now&"theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBDD)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kunal4now&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBDD)
 
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uzaxirr&show_icons=true&locale=en&layout=compact&bg_color=000000&hide_border=1&title_color=2EDDD5"" alt="uzaxirr" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunal4now&show_icons=true&locale=en&layout=compact&bg_color=000000&hide_border=1&title_color=2EDDD5" alt="kunal4now" /></p>
 
 <div align="center">
   
