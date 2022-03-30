@@ -52,7 +52,7 @@
   ![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 ## 🔭 I’m currently working on
-* [SpacePark](https://github.com/Kunal4now/SpacePark/tree/new-landing)
+* [Result Publishing System](https://github.com/result-publishing-system)
 
 ## 🌱 I’m currently learning
 
