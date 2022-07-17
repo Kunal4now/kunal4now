@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kunal</h1>
 
-![Uzair's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kunal4now&theme=react-dark&hide_border=true&area=true)
+![Kunal's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kunal4now&theme=react-dark&hide_border=true&area=true)
 
 ## About Me
 <h3 align="center">A self taught developer who is trying to create magic with 1's and 0's</h3>
