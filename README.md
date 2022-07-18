@@ -2,9 +2,6 @@
 
 ![Kunal's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kunal4now&theme=react-dark&hide_border=true&area=true)
 
-## About Me
-<h3 align="center">A self taught developer who is trying to create magic with 1's and 0's</h3>
-
 ## 📫 Find me at:
 
 <table>
@@ -48,16 +45,6 @@
 * Cloud and Hosting services
 
   ![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-
-## 🔭 I’m currently working on
-* [Result Publishing System](https://github.com/result-publishing-system)
-* [talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
-* [SpacePark](https://github.com/Kunal4now/SpacePark)
-
-## 🌱 I’m currently learning
-
-* React
-* NodeJS
 
 # Blog posts 📝
 <!-- BLOG-POST-LIST:START -->
